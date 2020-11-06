@@ -1,0 +1,30 @@
+﻿<Window x:Class="ArchiveSearcher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ArchiveSearcher"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="65*"/>
+            <ColumnDefinition Width="199*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="270*"/>
+            <RowDefinition Height="149*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="btnSelectFile" Content="***" HorizontalAlignment="Left" Margin="450,155,0,0" VerticalAlignment="Top" Width="50" FontFamily="Times New Roman" FontWeight="Bold" FontSize="24" Height="25" Click="btnSelectFile_Click" Grid.Column="1"/>
+        <TextBox x:Name="txtPath" HorizontalAlignment="Left" Height="35" Margin="100,165,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="510" Text="D:\Jobs\2019-2020\VisualStudio 4 semestras\AllArf\" Grid.ColumnSpan="2"/>
+        <Button x:Name="buttonStart" Content="Pradėti" HorizontalAlignment="Left" Margin="10,100,0,0" VerticalAlignment="Top" Width="75" Grid.Row="1" Grid.Column="1" Height="20" Click="buttonStart_Click_1"/>
+        <TextBox x:Name="txtPattern" HorizontalAlignment="Left" Height="23" Margin="0,225,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="290" Text="name" Grid.Column="1"/>
+        <ComboBox x:Name="ComboBoxas" HorizontalAlignment="Left" Margin="100,253,0,0" VerticalAlignment="Top" Width="510" Height="32" Grid.RowSpan="2" Grid.ColumnSpan="2"/>
+        <Button x:Name="btnRemove" Content="Istrinti" HorizontalAlignment="Left" Margin="100,225,0,0" VerticalAlignment="Top" Width="90" Height="23" Click="btnRemove_Click"/>
+        <Button x:Name="btnAdd" Content="Prideti" HorizontalAlignment="Left" Margin="310,225,0,0" VerticalAlignment="Top" Width="90" Height="23" Click="btnAdd_Click" Grid.Column="1"/>
+        <ProgressBar x:Name="progressBaras" HorizontalAlignment="Left" Height="30" Margin="100,50,0,0" Grid.Row="1" VerticalAlignment="Top" Width="510" Grid.ColumnSpan="2"/>
+        <Button x:Name="btnCancel" Content="Atsaukti" Grid.Column="1" HorizontalAlignment="Left" Margin="110,100,0,0" Grid.Row="1" VerticalAlignment="Top" Width="75" Click="btnCancel_Click" IsEnabled="False"/>
+        <Button x:Name="btnPause" Content="Sustabdyti" Grid.Column="1" HorizontalAlignment="Left" Margin="230,100,0,0" Grid.Row="1" VerticalAlignment="Top" Width="75" Click="btnPause_Click" IsEnabled="False"/>
+
+    </Grid>
+</Window>

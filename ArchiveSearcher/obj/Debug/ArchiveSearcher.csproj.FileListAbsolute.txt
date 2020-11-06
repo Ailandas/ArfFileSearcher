@@ -1,0 +1,15 @@
+D:\Jobs\2019-2020\VisualStudio 4 semestras\ArffSearcher\ArchiveSearcher\bin\Debug\ArchiveSearcher.exe.config
+D:\Jobs\2019-2020\VisualStudio 4 semestras\ArffSearcher\ArchiveSearcher\bin\Debug\ArchiveSearcher.exe
+D:\Jobs\2019-2020\VisualStudio 4 semestras\ArffSearcher\ArchiveSearcher\bin\Debug\ArchiveSearcher.pdb
+D:\Jobs\2019-2020\VisualStudio 4 semestras\ArffSearcher\ArchiveSearcher\obj\Debug\ArchiveSearcher.csprojAssemblyReference.cache
+D:\Jobs\2019-2020\VisualStudio 4 semestras\ArffSearcher\ArchiveSearcher\obj\Debug\MainWindow.g.cs
+D:\Jobs\2019-2020\VisualStudio 4 semestras\ArffSearcher\ArchiveSearcher\obj\Debug\App.g.cs
+D:\Jobs\2019-2020\VisualStudio 4 semestras\ArffSearcher\ArchiveSearcher\obj\Debug\ArchiveSearcher_MarkupCompile.cache
+D:\Jobs\2019-2020\VisualStudio 4 semestras\ArffSearcher\ArchiveSearcher\obj\Debug\ArchiveSearcher_MarkupCompile.lref
+D:\Jobs\2019-2020\VisualStudio 4 semestras\ArffSearcher\ArchiveSearcher\obj\Debug\MainWindow.baml
+D:\Jobs\2019-2020\VisualStudio 4 semestras\ArffSearcher\ArchiveSearcher\obj\Debug\ArchiveSearcher.g.resources
+D:\Jobs\2019-2020\VisualStudio 4 semestras\ArffSearcher\ArchiveSearcher\obj\Debug\ArchiveSearcher.Properties.Resources.resources
+D:\Jobs\2019-2020\VisualStudio 4 semestras\ArffSearcher\ArchiveSearcher\obj\Debug\ArchiveSearcher.csproj.GenerateResource.cache
+D:\Jobs\2019-2020\VisualStudio 4 semestras\ArffSearcher\ArchiveSearcher\obj\Debug\ArchiveSearcher.exe
+D:\Jobs\2019-2020\VisualStudio 4 semestras\ArffSearcher\ArchiveSearcher\obj\Debug\ArchiveSearcher.pdb
+D:\Jobs\2019-2020\VisualStudio 4 semestras\ArffSearcher\ArchiveSearcher\obj\Debug\ArchiveSearcher.csproj.CoreCompileInputs.cache
